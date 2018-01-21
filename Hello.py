@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/usr/bin/env python3
 # Author: Kyleigh
 # Date: 1/14/2018
 
@@ -16,6 +16,3 @@ def print_stuff(name, age):
 
 stuff = get_stuff()
 print_stuff(stuff[0], stuff[1])
-
-
-    
